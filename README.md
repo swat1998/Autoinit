@@ -1,6 +1,6 @@
 ### AutoInit
 
-## Intriduction
+## Introduction
 
 This is an attempt towards initiating programs with ease and subsequent automation of many of the drirectory creation and ommiting precreated comments (this is mainly created for flutter) 
 
@@ -24,6 +24,8 @@ I have tried to keep requirements to a minimum but for all of them to fuction
 
 **To try anything else than help please call the shell script using the following example:**
 > . autoinit --create flutter --name Hello
+
+**If you dont want to deal with the call in hassle please add the directory to /bin and alias it using ~/.bashrc**
 
 **Feel free to clone it, fork it and raise issues.**
 ***For some bugs please resort to single string names*** 
