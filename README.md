@@ -10,7 +10,7 @@ Hope this automates some of the jobs...
 
 > This was written for a wsl platform though UNIX based code are provide feel free to go in and uncomment the code 
 
-## Recuirements 
+## Requirements 
 
 I have tried to keep requirements to a minimum but for all of them to fuction
 
