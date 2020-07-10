@@ -1,0 +1,32 @@
+
+
+                       /$$                     /$$           /$$   /$$    
+                      | $$                    |__/          |__/  | $$    
+  /$$$$$$  /$$   /$$ /$$$$$$    /$$$$$$        /$$ /$$$$$$$  /$$ /$$$$$$  
+ |____  $$| $$  | $$|_  $$_/   /$$__  $$      | $$| $$__  $$| $$|_  $$_/  
+  /$$$$$$$| $$  | $$  | $$    | $$  \ $$      | $$| $$  \ $$| $$  | $$    
+ /$$__  $$| $$  | $$  | $$ /$$| $$  | $$      | $$| $$  | $$| $$  | $$ /$$
+|  $$$$$$$|  $$$$$$/  |  $$$$/|  $$$$$$/      | $$| $$  | $$| $$  |  $$$$/
+ \_______/ \______/    \___/   \______/       |__/|__/  |__/|__/   \___/  
+ 
+ This is program made for initializing any number of coustom files or tasks requied before starting to code for a perticular project.
+
+-h | --help
+To come to this menu
+
+-b | --banner
+Just prints out the ASCII ART
+
+-c | --create <type of project>
+To create a project in priviously given directory
+types of project- pyhton, flutter, 
+
+-n | -name <project_name>
+Name of the porject about to be created (cannot be null)
+
+-g | -git-enable
+perfoms git initiations add a .gitignore file
+
+e.g.- 
+autoinit --help
+autoinit -c python -n Hello -g
