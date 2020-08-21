@@ -31,7 +31,11 @@ I have tried to keep requirements to a minimum but for all of them to fuction
 
 ## Configuration
 
-for the ease of operation and c
+for the ease of operation and keeping the ability to switch betwwen different options a configeration file is created so that the following options can be incorporated.
+
+- Switch between WSL(Windows subsystem for linux) and UNIX environment
+- Flutter auto update while starting the project
+- Launching VS code automatically on creating the project.
 
 **Feel free to clone it, fork it and raise issues.**
 ***For some bugs please resort to single string names*** 
